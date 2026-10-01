@@ -1,0 +1,15 @@
+# 小说原文与切片素材（有版权，不要上传）
+*.epub
+*.txt
+slices/
+analysis/
+
+# 系统与编辑器文件
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# oh-my-claudecode 状态
+.omc/
